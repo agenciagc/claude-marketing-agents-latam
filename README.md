@@ -1,4 +1,4 @@
-# 🧠 Claude-Marketing-Agents-latam
+# 🧠 Claude-Marketing-Agents-Latam
 
 **Enterprise-Grade AI Marketing Agents & Neuro-Prompting Architectures**
 
